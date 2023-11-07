@@ -1,9 +1,9 @@
-package csci1011.jdotylab9;
+package csci1011.jdotylab10;
 
 /**
- * CSCI 1011 Lab 9
+ * CSCI 1011
  * @author Jason Doty
- * This program tests constructors, gets number points, slope and distance.
+ * This program
  */
 public class Point {
     private double x;
@@ -54,4 +54,3 @@ public class Point {
         return "(" + x + ", " + y + ")";
     }
 }
-
